@@ -16,16 +16,16 @@ The data streams are as follows:
 ## Data Notes
 
 - Pilot participants are #100-107
-    - 100: RTX 2080. Run in editor, different locomotion parameters, no gaze calibration.
+    - 106: RTX 2080. Run in editor, different locomotion parameters, no gaze calibration.
+    - 100: RTX 2080. Different locomotion parameters, no gaze calibration.
+    - 107: RTX 2080. Different locomotion parameters, no gaze calibration.
     - 101: RTX 2080. Different locomotion parameters, no gaze calibration.
     - 102: RTX 2080. Different locomotion parameters, no gaze calibration.
     - 103: RTX 2080. Different locomotion parameters, no gaze calibration.
-    - 104: RTX 2080. Different locomotion parameters, no gaze calibration.
-    - 105: RTX 2080. Different locomotion parameters, no gaze calibration.
-    - 106: RTX 3080. No gaze calibration.
-    - 107: RTX 3080. No gaze calibration.
+    - 104: RTX 3080. No gaze calibration.
+    - 105: RTX 3080. No gaze calibration.
 - Additional exclusions: 
     - 113: Eye tracking/SteamVR crash during second navigation task. 
-    - 115: Discontinued due to FMS score of 10. 
+    - 115: Discontinued early due to FMS score of 10. 
     - 130: Pulled the HMD cord out of the computer (???) during the second planning task. Could not recover experiment. 
     - 138: Discontinued due to FMS score of 10. 
