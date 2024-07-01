@@ -24,8 +24,18 @@ The data streams are as follows:
     - 103: RTX 2080. Different locomotion parameters, no gaze calibration.
     - 104: RTX 3080. No gaze calibration.
     - 105: RTX 3080. No gaze calibration.
+
 - Additional exclusions: 
-    - 113: Eye tracking/SteamVR crash during second navigation task. 
-    - 115: Discontinued early due to FMS score of 10. 
+    - 113: Discontinued early due to FMS score of 10. 
+    - 115: Eye tracking/SteamVR crash during second navigation method.
+    - 123: Forgot to start recording data.
+    - 129: Eye tracking crashed prior to start of experiment. ID was initialized, but no data were recorded. 
     - 130: Pulled the HMD cord out of the computer (???) during the second planning task. Could not recover experiment. 
     - 138: Discontinued due to FMS score of 10. 
+
+    Early discontinuation: 2
+    Eye tracking crash: 1*
+    HMD disconnect: 1
+    No data: 1
+
+   *Note: eye tracking crashes traced to the lip tracking hardware component, which could not be removed.
