@@ -1,7 +1,7 @@
 name: path_data
 channels:
-  - conda-forge
   - defaults
+  - conda-forge
 dependencies:
   - pywavelets
   - numpy
@@ -12,4 +12,5 @@ dependencies:
   - conda-forge::pyxdf
   - ipykernel
   - nbformat
-prefix: C:\Users\Courtney\anaconda3\envs\path_data
+  - pip:
+    - kaleido==0.1.0.post1
